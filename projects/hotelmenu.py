@@ -1,4 +1,4 @@
-# Menu and ordering program
+# Menu and ordering program okays
 
 menu = {
     'Pizza': 40,
